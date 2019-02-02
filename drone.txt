@@ -1,1 +1,2 @@
 1.Turning on the drone
+2.Calibrate compass
